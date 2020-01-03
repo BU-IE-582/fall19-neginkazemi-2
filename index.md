@@ -17,3 +17,12 @@
 
 
 [Here](IE582_Homework4.html) is my approach for Homework 4.<br>
+
+
+##Project_Code
+
+[Here](https://github.com/BU-IE-582/fall19-minegazioglu-1/blob/master/files/project_code.ipynb) is the code for our project. <br>
+
+##Preject_Report
+
+[Here](https://github.com/BU-IE-582/fall19-minegazioglu-1/blob/master/files/project_report.html) is the report for our project. <br>
